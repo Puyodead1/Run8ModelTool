@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Testing": {
+      "commandName": "Project",
+      "commandLineArgs": "test \"C:\\Run8Studios\\Run8 Train Simulator V3\\Content\\Routes\\CSX_MohawkSub\\TileScenery\\-00140_00048.veg\""
+    }
+  }
+}

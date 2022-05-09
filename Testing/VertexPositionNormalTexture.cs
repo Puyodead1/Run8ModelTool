@@ -5,7 +5,7 @@ using System.Text;
 using SharpDX;
 using System.Threading.Tasks;
 
-namespace Run8ModelTools
+namespace Run8TerrainTools
 {
     //
     // Summary:

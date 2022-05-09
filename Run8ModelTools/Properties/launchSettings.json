@@ -2,7 +2,7 @@
   "profiles": {
     "Run8ModelTools": {
       "commandName": "Project",
-      "commandLineArgs": "r8o \"C:\\Run8Studios\\Run8 Train Simulator V3\\Content\\V3RailVehicles\\Body\\R8_WellCar40_DTTX25.rn8\""
+      "commandLineArgs": "r8o \"C:\\Run8Studios\\Run8 Train Simulator V3\\Content\\V3RailVehicles\\Body\\R8_C449W_Run801.rn8\""
     }
   }
 }
